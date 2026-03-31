@@ -5,8 +5,10 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 
 ## Team Rhythm
 - Daily standups (15 min) — focus on progress, blockers, dependencies
-- Weekly delivery sync — show progress, updates, and flagged risks
-- Demo/Review at the end of each sprint or milestone
+- Weekly delivery sync — show progress, updates, and flagged risks; Data Analyst provides metric updates
+- Demo/Review at the end of each sprint or milestone; UX Designer and Customer Success Manager participate to share usability findings and customer feedback
+- UX Designer participates in sprint planning to align design work with upcoming development
+- DevOps Engineer coordinates deployment readiness and monitors post-deploy health
 
 ## Workflows
 - Use the project board (e.g., GitHub Projects) with columns: Backlog, Ready, In Progress, In Review, QA, Done

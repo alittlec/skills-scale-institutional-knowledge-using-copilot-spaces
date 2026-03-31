@@ -19,6 +19,10 @@ Applies to all cross-functional projects that deliver product features, services
 - Developers: implement features, collaborate on design and testability.
 - QA/Testing: validate quality and acceptance criteria.
 - Stakeholders: provide inputs and approvals.
+- UX Designer: ensures user-centric design, usability testing, and design system consistency.
+- Data Analyst: defines metrics, builds dashboards, and provides data-driven insights.
+- DevOps Engineer: owns CI/CD, infrastructure, deployment, and incident response.
+- Customer Success Manager: gathers customer feedback, advocates for user needs, supports adoption.
 
 ## Key Artifacts
 - Project Charter / One-pager
