@@ -207,6 +207,9 @@ QA/Test Engineers validate that deliverables meet acceptance criteria and qualit
 - Defect triage and resolution discussions
 - Collaboration with Developers and DevOps on quality tooling
 
+### Interactions with Existing Roles
+Collaborates with Developers on testability and test coverage, works with DevOps on test automation infrastructure, and validates acceptance criteria in partnership with Product Managers.
+
 ---
 
 ## Stakeholder / Executive Sponsor
@@ -230,6 +233,9 @@ Stakeholders and Executive Sponsors provide strategic direction, approvals, and 
 - Monthly stakeholder updates and milestone reviews
 - Escalation and decision-making meetings
 - Executive briefings and steering committee participation
+
+### Interactions with Existing Roles
+Provides strategic direction and approvals to Project Managers, reviews outcomes with Product Managers, and champions the project across the organization to support the delivery team.
 
 ---
 
